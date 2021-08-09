@@ -4,12 +4,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: $colorlight;
-  @media all and (min-width: 768px) {
-    flex-direction: row;
-    background-color: #304268;
-    justify-content: space-around;
-  }
 }
 
 .section1 {
